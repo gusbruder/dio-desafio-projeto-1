@@ -1,0 +1,2 @@
+link para download do git desktop: https://desktop.github.com/
+O gitbash é um terminal de organiozação da plataforma Git.
